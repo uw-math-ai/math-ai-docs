@@ -8,7 +8,7 @@ The leader should spend at least 5 hours a week, with at least 1 hour spent plan
 
 ### Doc
 
-To plan the project and keep it on track, the project leader must make a Google Doc with the project proposal in the one tab and weekly meeting notes in the another tab. Make a copy of the [template](https://docs.google.com/document/d/1H5iHiiPxrOKZBDsisBAIvSP42xxkBcjn2bFcFxEuwhc/edit?usp=sharing) to get started. Two examples: [one](https://docs.google.com/document/d/1K8cSDExXdD9WatxWGj3LZvsvf6gDMi-GTlXRbKkd--w/edit?usp=sharing), [two](https://docs.google.com/document/d/1WpYN8_pDrO3BbSr7FkX-eN4rDBhKxFkKAVyaOYjojf0/edit?usp=sharing).
+To plan the project and keep it on track, the project leader should make a Google Doc with the project proposal in the one tab and weekly meeting notes in the another tab. Make a copy of the [template](https://docs.google.com/document/d/1H5iHiiPxrOKZBDsisBAIvSP42xxkBcjn2bFcFxEuwhc/edit?usp=sharing) to get started. Two examples: [one](https://docs.google.com/document/d/1K8cSDExXdD9WatxWGj3LZvsvf6gDMi-GTlXRbKkd--w/edit?usp=sharing), [two](https://docs.google.com/document/d/1WpYN8_pDrO3BbSr7FkX-eN4rDBhKxFkKAVyaOYjojf0/edit?usp=sharing).
 
 ### Weekly meetings
 
