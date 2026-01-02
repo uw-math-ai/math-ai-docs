@@ -51,7 +51,7 @@ Ask Vasily Ilin for API keys.
 
 ## Contribute to Mathlib
 
-[Mathlib](https://github.com/leanprover-community/mathlib4) is the standard mathematical library of Lean. It is by far the largest collection of formalized mathematics, and growing it is extremely valuable to the community. Because of its size and importance, contributing is not an easy process, perhaps even comparable to a small paper.
+[Mathlib](https://github.com/leanprover-community/mathlib4) is the standard mathematical library of Lean. It is by far the largest collection of formalized mathematics, and growing it is extremely valuable to the community. Because of mathlib's size and importance, contributing is not an easy process, perhaps even comparable to a small paper.
 
 1. Use [LeanSearch](https://leansearch.net/) and [Mathlib Index](https://leanprover-community.github.io/mathlib4_docs/) to check whether your theorem is already in Mathlib.
 2. Formalize your theorem in Lean, yourself or with Aristotle's help. If your theorem is general enough, it belongs in Mathlib
@@ -61,7 +61,7 @@ Ask Vasily Ilin for API keys.
 6. Clone the [UW-Math-AI fork](https://github.com/uw-math-ai/mathlib4) of Mathlib, open it in VSCode and run `lake exe cache get` in the terminal.
 7. Put your theorem(s) in the chosen file, make sure it compiles (no red underlines).
 8. Use the correct formatting and indentation.
-9. Push to GitHub, and open a PR to Mathlib from the fork. Write the correct PR description.
+9. Push to GitHub, and open a PR to Mathlib from the fork. Write the correct PR description. Assign the reviewer; choose someone who has contributed to your file, using the commit history.
 10. Follow the reviewers' suggestions. Treat the review as a gift, since the reviewers are volunteers. It is also a great learning opportunity. Consider messaging the reviewer on Zulip to thank them and ask for advice. Ping in Zulip or Github if you have not received a review after 3 days.
 
 Read the [contributor's guide](https://leanprover-community.github.io/contribute/index.html) for more details on what to contribute, the recommended workflow, and the naming and style conventions.
