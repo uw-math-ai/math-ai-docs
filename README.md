@@ -22,7 +22,7 @@ During the meeting each member must clearly describe their accomplishments and g
 
 ## Tools
 
-All projects must use a single GitHub repository in the [UW-Math-AI org](https://github.com/uw-math-ai). A single branch is recommended. Each member should be added as a collaborator.
+All projects must use a single GitHub repository in the [UW-Math-AI org](https://github.com/uw-math-ai). A single branch is recommended. Each member should be added as a collaborator. To ensure code reuse push often; it also helps minimize merge conflicts.
 
 ### Lean
 
