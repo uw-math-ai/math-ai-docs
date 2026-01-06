@@ -28,7 +28,7 @@ All projects must use a single GitHub repository in the [UW-Math-AI org](https:/
 
 Formalization projects should use
 
-- [LeanSearch](https://leansearch.net/) to find existing theorems in Mathlib
+- [LeanSearch](https://leansearch.net/) or [LeanExplore](https://www.leanexplore.com/) to find existing theorems in Mathlib
 - [Zulip](https://leanprover.zulipchat.com/) to ask questions to the Lean community
 - [Aristotle](https://aristotle.harmonic.fun/) to speed up formalization
 - [Mathlib Index](https://leanprover-community.github.io/mathlib4_docs/) to learn the state of the library
