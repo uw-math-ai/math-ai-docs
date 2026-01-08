@@ -39,7 +39,7 @@ Formalization projects should use
 AI projects should use
 
 - [AWS Bedrock](https://aws.amazon.com/bedrock/) or [Token Factory](https://tokenfactory.nebius.com/) or [LiteLLM](https://www.litellm.ai/) for LLM inference
-- [Tillicum](https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB0036077) (GPU, $0.9/hour) or [Hyak Klone](https://hyak.uw.edu/docs/) (CPU, free) or [AWS EC2](https://aws.amazon.com/ec2/) (CPU, cheap and GPU, expensive) for compute and storage
+- [Tillicum](https://github.com/UWrc/tillicum-onboarding) (GPU, $0.9/hour) or [Hyak Klone](https://hyak.uw.edu/docs/) (CPU, free) or [AWS EC2](https://aws.amazon.com/ec2/) (CPU, cheap and GPU, expensive) for compute and storage
 - [LeanInteract](https://github.com/augustepoiroux/LeanInteract) for interfacing between Python and Lean
 
 It is also strongly recommended to use
